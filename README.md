@@ -1,1 +1,1 @@
-# GPA-calculator_activity-
+# GPA-calculator_activity
